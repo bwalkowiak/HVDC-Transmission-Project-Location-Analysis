@@ -9,7 +9,7 @@ The output dataset (HVDC_Projects_out_EDF_2024.csv) contains the relevant variab
 
 The analysis is contained in the code script jupyter notebook (Undergrounding_Analysis.ipynb) located here and publicaly available on GitHub (https://github.com/bwalkowiak/HVDC-Transmission-Project-Location-Analysis) for viewing. 
 
-Necessary input data to run the script are contained in the input file (hvdc_projects_input_EDF_2023.xlsx) in addition to the HVDC transmission lines (hvdc_routes.[type]) which were not publicly abailable, so were generated in ArcMap. Additional publicaly available data used for figure generation are highlighted in the code script and here:
+Necessary input data to run the script are contained in the input file (hvdc_projects_input_EDF_2024.xlsx) in addition to the HVDC transmission lines (hvdc_routes.[filetype]) which were not publicly abailable, so were generated in ArcMap. Additional publicaly available data used for figure generation are highlighted in the code script and here:
 
 Data Sources for Figure 1: 
 * Operational HVDC Transmission Lines - [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::transmission-lines/about)
